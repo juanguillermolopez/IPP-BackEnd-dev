@@ -1,19 +1,14 @@
 {
-  "name": "ipp-node",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/juanguillermolopez/IPP-BackEnd-dev.git"
-  },
-  "author": "Guillermo López",
-  "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/juanguillermolopez/IPP-BackEnd-dev/issues"
-  },
-  "homepage": "https://github.com/juanguillermolopez/IPP-BackEnd-dev#readme"
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+	}
 }
