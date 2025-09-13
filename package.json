@@ -2,7 +2,7 @@
 	"name": "ipp",
 	"dependencies": {
 		"express": "^4.14.0",
-		"package-name": "@freecodecamp/example"
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
